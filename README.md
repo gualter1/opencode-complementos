@@ -1,4 +1,4 @@
-# ResultadoFinal — Unified OpenCode Agent Team
+# Unified OpenCode Agent Team
 
 > **A curated, rewritten, and merged collection of 20 specialized AI agents + 51 skills for OpenCode, synthesized from 4 analyzed repositories.**
 
